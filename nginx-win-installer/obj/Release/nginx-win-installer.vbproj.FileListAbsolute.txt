@@ -1,0 +1,12 @@
+C:\Users\Dominik\Documents\Visual Studio 2019\Projects\nginx-win-installer\nginx-win-installer\bin\Release\nginx-win-installer.exe.config
+C:\Users\Dominik\Documents\Visual Studio 2019\Projects\nginx-win-installer\nginx-win-installer\bin\Release\nginx-win-installer.exe
+C:\Users\Dominik\Documents\Visual Studio 2019\Projects\nginx-win-installer\nginx-win-installer\bin\Release\nginx-win-installer.pdb
+C:\Users\Dominik\Documents\Visual Studio 2019\Projects\nginx-win-installer\nginx-win-installer\bin\Release\nginx-win-installer.xml
+C:\Users\Dominik\Documents\Visual Studio 2019\Projects\nginx-win-installer\nginx-win-installer\obj\Release\nginx-win-installer.vbprojAssemblyReference.cache
+C:\Users\Dominik\Documents\Visual Studio 2019\Projects\nginx-win-installer\nginx-win-installer\obj\Release\nginx_win_installer.Form1.resources
+C:\Users\Dominik\Documents\Visual Studio 2019\Projects\nginx-win-installer\nginx-win-installer\obj\Release\nginx_win_installer.Resources.resources
+C:\Users\Dominik\Documents\Visual Studio 2019\Projects\nginx-win-installer\nginx-win-installer\obj\Release\nginx-win-installer.vbproj.GenerateResource.cache
+C:\Users\Dominik\Documents\Visual Studio 2019\Projects\nginx-win-installer\nginx-win-installer\obj\Release\nginx-win-installer.vbproj.CoreCompileInputs.cache
+C:\Users\Dominik\Documents\Visual Studio 2019\Projects\nginx-win-installer\nginx-win-installer\obj\Release\nginx-win-installer.exe
+C:\Users\Dominik\Documents\Visual Studio 2019\Projects\nginx-win-installer\nginx-win-installer\obj\Release\nginx-win-installer.xml
+C:\Users\Dominik\Documents\Visual Studio 2019\Projects\nginx-win-installer\nginx-win-installer\obj\Release\nginx-win-installer.pdb
